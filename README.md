@@ -12,3 +12,9 @@ https://capture.dropbox.com/2zv320gUKFRbipCX
 
 Link to the colaborator's repository:
 https://github.com/blipblopblop/ECE444-F2022-Lab1
+
+<img width="621" alt="Screen Shot 2022-09-17 at 2 39 26 PM" src="https://user-images.githubusercontent.com/64912362/190871929-0cbb864d-50b0-4879-97c9-8241b38aff74.png">
+
+<img width="707" alt="Screen Shot 2022-09-17 at 2 39 57 PM" src="https://user-images.githubusercontent.com/64912362/190871941-021fd8f3-4a89-468f-885d-53847f7971e9.png">
+
+<img width="896" alt="Screen Shot 2022-09-17 at 2 41 42 PM" src="https://user-images.githubusercontent.com/64912362/190871950-ebf79bb8-e9cc-42dd-9fc4-321d713d8795.png">
