@@ -46,4 +46,4 @@ Activity 8
 
 <img width="618" alt="Screen Shot 2022-09-18 at 12 38 19 PM" src="https://user-images.githubusercontent.com/64912362/190922146-430c1def-ed14-4bd0-8b48-522991f4f931.png">
 
-<img width="1440" alt="Screen Shot 2022-09-18 at 12 35 24 PM" src="https://user-images.githubusercontent.com/64912362/190922151-bbeca2a9-0d7a-4ef6-b76f-5620b6ac9f46.png">
+<img width="1440" alt="Screen Shot 2022-09-18 at 2 06 35 PM" src="https://user-images.githubusercontent.com/64912362/190922408-a946d314-3691-43ed-bc41-c41d6f42f531.png">
