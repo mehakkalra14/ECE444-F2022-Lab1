@@ -1,6 +1,7 @@
+Mehak Kalra
+
 Activity 1
 
-Mehak Kalra
 <img width="1130" alt="Screen Shot 2022-09-16 at 12 49 08 PM" src="https://user-images.githubusercontent.com/64912362/190689906-9f657696-ab1e-4281-b3fb-960b2dad2d1f.png">
 
 Activity 2
@@ -23,6 +24,7 @@ Link to the colaborator's repository:
 https://github.com/blipblopblop/ECE444-F2022-Lab1
 
 Activity 5
+
 <img width="621" alt="Screen Shot 2022-09-17 at 2 39 26 PM" src="https://user-images.githubusercontent.com/64912362/190871929-0cbb864d-50b0-4879-97c9-8241b38aff74.png">
 
 <img width="707" alt="Screen Shot 2022-09-17 at 2 39 57 PM" src="https://user-images.githubusercontent.com/64912362/190871941-021fd8f3-4a89-468f-885d-53847f7971e9.png">
@@ -35,11 +37,13 @@ The link of the EP repository
 https://github.com/mehakkalra14/ECE444-F2022-EP
 
 Activity 7:
+
 <img width="618" alt="Screen Shot 2022-09-18 at 12 38 19 PM" src="https://user-images.githubusercontent.com/64912362/190918255-8c56b2f0-c0ab-43dc-89cd-c5bddd81953b.png">
 
 <img width="1440" alt="Screen Shot 2022-09-18 at 12 35 24 PM" src="https://user-images.githubusercontent.com/64912362/190918270-f110edf2-4d90-4f9e-ac6d-45c53458b0e5.png">
 
 Activity 8
+
 <img width="618" alt="Screen Shot 2022-09-18 at 12 38 19 PM" src="https://user-images.githubusercontent.com/64912362/190922146-430c1def-ed14-4bd0-8b48-522991f4f931.png">
 
 <img width="1440" alt="Screen Shot 2022-09-18 at 12 35 24 PM" src="https://user-images.githubusercontent.com/64912362/190922151-bbeca2a9-0d7a-4ef6-b76f-5620b6ac9f46.png">
