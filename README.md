@@ -21,3 +21,9 @@ https://github.com/blipblopblop/ECE444-F2022-Lab1
 
 The link of the EP repository
 https://github.com/mehakkalra14/ECE444-F2022-EP
+
+Activity 7:
+<img width="618" alt="Screen Shot 2022-09-18 at 12 38 19 PM" src="https://user-images.githubusercontent.com/64912362/190918255-8c56b2f0-c0ab-43dc-89cd-c5bddd81953b.png">
+
+<img width="1440" alt="Screen Shot 2022-09-18 at 12 35 24 PM" src="https://user-images.githubusercontent.com/64912362/190918270-f110edf2-4d90-4f9e-ac6d-45c53458b0e5.png">
+
