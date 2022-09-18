@@ -18,6 +18,9 @@ Activity 4
 
 <img width="661" alt="Screen Shot 2022-09-17 at 1 58 17 PM" src="https://user-images.githubusercontent.com/64912362/190870328-2043c99a-da43-44ba-a192-2caafabdfbc0.png">
 
+<img width="596" alt="Screen Shot 2022-09-18 at 2 23 39 PM" src="https://user-images.githubusercontent.com/64912362/190922622-600e0426-faae-4c9e-8296-3d76f8f023db.png">
+
+
 <img width="1215" alt="Screen Shot 2022-09-17 at 2 00 12 PM" src="https://user-images.githubusercontent.com/64912362/190918321-6d44c762-a8b8-41a6-b285-ffa62a26cfbd.png">
 
 Link to the colaborator's repository:
